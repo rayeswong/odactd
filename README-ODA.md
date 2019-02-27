@@ -38,6 +38,7 @@ This Cloud Test Drive Workshop is designed to work with your own Autonomous Clou
 #### 4: Instant Apps for Structured Data [(Start)](ODA/400-IB.md) ####
 #### 5: Exposing the Digital Assistant within a Web Page [(Start)](ODA/500-IB.md)
 #### 6: Via Facebook Messenger [(Start)](ODA/600-IB.md)
+#### BONUS: Build a digital assistant with multiple skills [(Start)](https://tinyurl.com/odactdbonus)
 
 ## Lab Files ##
 - [Intents, Entities and Utterances for FoodMenu Bot](ODA/Lab_Files/Intents-And-Entities.zip)
